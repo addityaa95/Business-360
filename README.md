@@ -72,12 +72,12 @@
 
 ##Dashboard Preview :
 
-- [x] Landing Page ()
-- [x] Finance View ()
-- [x] Sales View ()
-- [x] Marketing View ()
-- [x] Supply Chain View ()
-- [x] Executive View ()
+- [x] Landing Page (https://github.com/addityaa95/Business-360/blob/main/Landing%20Page.png)
+- [x] Finance View (https://github.com/addityaa95/Business-360/blob/main/Finance_View.png)
+- [x] Sales View (https://github.com/addityaa95/Business-360/blob/main/Sales_View.png)
+- [x] Marketing View (https://github.com/addityaa95/Business-360/blob/main/Marketing_View.png)
+- [x] Supply Chain View (https://github.com/addityaa95/Business-360/blob/main/Supply_Chain_View.png)
+- [x] Executive View (https://github.com/addityaa95/Business-360/blob/main/Executive_View.png)
 
 ## Business Value :
 
@@ -98,3 +98,5 @@
 - [x] Advanced DAX calculations
 - [x] Dashboard design and storytelling
 - [x] Stakeholder-focused dashboard development
+
+## Live Dashboard - https://tinyurl.com/busines360
